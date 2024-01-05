@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanak Thool</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<h3 align-"center">BE/B.tech in Information Technology</h3>
+<h3 align-"center">I have completed my BE/B.tech specialisation Information Technology in the year 2023</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanak-thool&label=Profile%20views&color=0e75b6&style=flat" alt="kanak-thool" /> </p>
