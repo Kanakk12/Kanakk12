@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **Frontend developement, C and Python, MERN stack**
+- 💬 Ask me about **Frontend developement- HTML, CSS, Javascript, Bootsrap, MERN stack- Mongodb, Express.js, React.js, Node.js,  Python and MySQL**
 
 - 📫 How to reach me **kanak.thool12@gmail.com**
 
